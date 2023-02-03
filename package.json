@@ -1,9 +1,9 @@
 {
   "name": "node-cin",
-  "version": "2023.02.03",
+  "version": "2023.02.03-1",
   "description": "Standard input module for JavaScript / TypeScript",
   "main": "build/index.js",
-  "types": "dist/index.d.ts",
+  "types": "build/index.d.ts",
   "scripts": {
     "install": "tsc"
   },
