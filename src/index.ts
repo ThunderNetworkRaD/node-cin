@@ -7,7 +7,7 @@ import readlineSync from '@thundernetworkrad/readline-sync';
  * @returns 
  */
 
-function cin (question: string, hide: boolean) {
+export function cin (question: string, hide: boolean) {
     return new Promise((resolve) => {
         try {
             let answer: string = readlineSync.question(`${question} `, {
@@ -20,5 +20,3 @@ function cin (question: string, hide: boolean) {
         }
     })
 };
-
-export default cin;

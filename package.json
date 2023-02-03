@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThunderNetworkRaD/std.git"
+    "url": "git+https://github.com/ThunderNetworkRaD/node-cin.git"
   },
   "keywords": [
     "std",
@@ -17,14 +17,18 @@
     "npmjs",
     "npm",
     "module",
-    "javascript"
+    "javascript",
+    "typescript",
+    "input",
+    "cin",
+    "await"
   ],
   "author": "Thunder Network RaD | Killer Boss Original",
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "Mozilla Public License 2.0",
   "bugs": {
-    "url": "https://github.com/ThunderNetworkRaD/std/issues"
+    "url": "https://github.com/ThunderNetworkRaD/node-cin/issues"
   },
-  "homepage": "https://github.com/ThunderNetworkRaD/std#readme",
+  "homepage": "https://github.com/ThunderNetworkRaD/node-cin#readme",
   "dependencies": {
     "@thundernetworkrad/readline-sync": "^2023.1.30",
     "@types/node": "^18.11.18",
