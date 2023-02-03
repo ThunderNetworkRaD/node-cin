@@ -1,5 +1,5 @@
 {
-  "name": "cin",
+  "name": "node-cin",
   "version": "2023.02.03",
   "description": "Standard input module for JavaScript / TypeScript",
   "main": "build/index.js",
