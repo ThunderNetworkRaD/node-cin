@@ -1,11 +1,11 @@
 {
   "name": "node-cin",
-  "version": "2023.02.03-1",
+  "version": "2023.02.03-2",
   "description": "Standard input module for JavaScript / TypeScript",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
-    "install": "tsc"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
